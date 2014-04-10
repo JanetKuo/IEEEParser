@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="parser.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="parser.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="-0.41776937" vertical-offset="566" max-vertical-offset="1095">
+            <state line="33" column="37" selection-start="1155" selection-end="1155" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1125">
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
               </folding>
@@ -34,10 +34,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="bibtex_to_csv.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bibtex_to_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="21" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.43289226" vertical-offset="356" max-vertical-offset="1155">
+              <folding>
+                <element signature="e#157#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Library/Python/2.7/site-packages/pybtex/database/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="285" column="8" selection-start="10214" selection-end="10214" vertical-scroll-proportion="0.0" vertical-offset="3960" max-vertical-offset="6510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="parsed.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parsed.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="104" selection-start="1569" selection-end="1626" vertical-scroll-proportion="-14.375" vertical-offset="975" max-vertical-offset="45735">
+            <state line="88" column="104" selection-start="1569" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="45735">
               <folding />
             </state>
           </provider>
@@ -54,12 +74,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/parser.py" />
+        <option value="$PROJECT_DIR$/bibtex_to_csv.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="width" value="1600" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -94,6 +114,14 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="IEEEParser" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.5 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -248,19 +276,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1600" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891566" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2178594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24242425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -284,21 +312,62 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="22" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1125">
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/parsed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="104" selection-start="1569" selection-end="1626" vertical-scroll-proportion="-14.375" vertical-offset="975" max-vertical-offset="45735">
+        <state line="88" column="104" selection-start="1569" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="45735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parsed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="104" selection-start="1569" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="45735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/twisted/words/im/basechat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="337" column="30" selection-start="10192" selection-end="10192" vertical-scroll-proportion="1.2117202" vertical-offset="4414" max-vertical-offset="7770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/pybtex/database/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="285" column="8" selection-start="10214" selection-end="10214" vertical-scroll-proportion="0.0" vertical-offset="3960" max-vertical-offset="6510">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="-0.41776937" vertical-offset="566" max-vertical-offset="1095">
+        <state line="33" column="37" selection-start="1155" selection-end="1155" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1125">
           <folding>
             <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibtex_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="21" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.43289226" vertical-offset="356" max-vertical-offset="1155">
+          <folding>
+            <element signature="e#157#167#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -40,7 +40,7 @@ def get_pdf_url(id):
         print 'Warning! PDF not found in', url_article
         return 'PDF not found'
 
-def download_papers(id, paper_url, dest_dir='PDF'):
+def download_papers(id, paper_url = 'http://ieeexplore.ieee.org/ielx5/2945/5629311/05487515.pdf', dest_dir='PDF'):
     if not os.path.exists(dest_dir):
       os.makedirs(dest_dir)
     paper_path = os.path.join(dest_dir, id+'.pdf')
@@ -58,11 +58,13 @@ def csv_writer(data_list, csv_path='result.csv'):
         writer.writerow(data_list)
 
 def main():
+    download_papers('123')
     filename = 'tvcg2011bib.txt'
-    ids = extract_ids(filename)
-    csv_writer_field()
-    for id in ids:
-        csv_writer([id, get_pdf_url(id)])
+    #ids = extract_ids(filename)
+    #csv_writer_field()
+    #for id in ids:
+    #    csv_writer([id, get_pdf_url(id)])
+
 
 if __name__ == '__main__':
     main()
